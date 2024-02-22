@@ -49,7 +49,7 @@ Anaconda - Python 3.7
 ### OUTPUT:
 ![image](https://github.com/YendluriChandana/COLOR_CONVERSIONS_OF-IMAGE/assets/139842204/126a22f7-02b1-4047-b618-5a9a47b01632)
 
- <img src="dipt1.png">
+
   </td>
   </tr>
 
@@ -66,8 +66,9 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
+![image](https://github.com/YendluriChandana/COLOR_CONVERSIONS_OF-IMAGE/assets/139842204/aae6b937-f3b8-48aa-8b98-bd80f4123f5b)
 
-<img src="dipt2.png">
+
   </td>
   </tr>
   <tr>
@@ -83,7 +84,9 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-<img src="dipt3.png">
+![image](https://github.com/YendluriChandana/COLOR_CONVERSIONS_OF-IMAGE/assets/139842204/737f0d32-b73a-4330-b64f-8ee6ab7b98aa)
+
+
   </td>
   </tr>
   <tr>
@@ -109,7 +112,8 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="dipt4.png">
+![image](https://github.com/YendluriChandana/COLOR_CONVERSIONS_OF-IMAGE/assets/139842204/9b890450-fc9d-4369-96e7-777896f22f9b)
+
   </td>
   </tr>
   <tr>
@@ -131,8 +135,8 @@ Anaconda - Python 3.7
   <td>
     
 ### OUTPUT:
+![image](https://github.com/YendluriChandana/COLOR_CONVERSIONS_OF-IMAGE/assets/139842204/6c58e30f-b9ec-4028-bbd2-46ed28ecb823)
 
-<img src="dipt5.png">
   </td>
   </tr>
 </table>
