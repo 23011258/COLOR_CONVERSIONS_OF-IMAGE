@@ -1,3 +1,6 @@
+### Developed By: Yendluri Chandana
+### Register Number: 212223100063
+
 # COLOR_CONVERSIONS_OF-IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
@@ -26,10 +29,7 @@ Anaconda - Python 3.7
 ### Step10: Split and merge HSV Image
 
 ##### Program:
-```
-### Developed By: YOHESHKUMAR R.M
-### Register Number: 212222240118
-```
+
 <table>
   <tr>
     <td width=50%>
@@ -47,6 +47,7 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
+![image](https://github.com/YendluriChandana/COLOR_CONVERSIONS_OF-IMAGE/assets/139842204/126a22f7-02b1-4047-b618-5a9a47b01632)
 
  <img src="dipt1.png">
   </td>
